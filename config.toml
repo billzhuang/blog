@@ -1,4 +1,9 @@
 baseURL = "https://blog.billzhuang.com/"
 languageCode = "en-us"
-title = "Bill Blog"
-theme = "paperback"
+title = "Bill's Blog"
+theme = "m10c"
+
+[params]
+  author = "Bill Zhuang"
+  description = "Bill is a freelancer to build software"
+

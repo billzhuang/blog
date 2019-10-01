@@ -1,0 +1,4 @@
+baseURL = "https://blog.billzhuang.com/"
+languageCode = "en-us"
+title = "Bill Blog"
+theme = "paperback"
